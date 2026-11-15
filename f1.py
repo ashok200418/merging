@@ -1,0 +1,2 @@
+s='ashok'
+print(s)
